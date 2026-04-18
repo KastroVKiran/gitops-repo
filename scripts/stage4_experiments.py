@@ -26,8 +26,8 @@ import subprocess, time, datetime, csv, os, sys, json, random
 from pathlib import Path
 
 # ── Configuration (hardcoded for your cluster) ────────────────
-NODE_IP        = "43.204.144.182"
-NODE_IP_2      = "13.234.217.134"
+NODE_IP        = "13.234.217.134"
+NODE_IP_2      = "43.204.144.182"
 USER_PORT      = 31096
 PRODUCT_PORT   = 31471
 NAMESPACE      = "production"
