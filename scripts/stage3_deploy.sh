@@ -10,8 +10,8 @@ set -e
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 NAMESPACE="production"
-NODE_IP="13.233.100.26"
-ARGOCD_URL="ae7828c99d08d45a7a166f1392a8bec2-2128056202.ap-south-1.elb.amazonaws.com"
+NODE_IP="13.234.217.134"
+ARGOCD_URL="a3b91fe804f58403ea8090b662886fe1-1066088423.ap-south-1.elb.amazonaws.com"
 
 echo ""
 echo "============================================================"
